@@ -9,8 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Ivan Baybuza* 
-* **Olga Shtepa* 
+* *Ivan Baybuza* 
+* *Olga Shtepa* 
 
 ## References
 
