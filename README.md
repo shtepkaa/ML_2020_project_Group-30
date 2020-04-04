@@ -17,13 +17,23 @@ In M4 (https://github.com/Mcompetitions/M4-methods/tree/master/Dataset) there ar
 
 M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information about the dates on which the products are sold, the historical daily unit sales data per product and the store, information about the price of the products sold per store and date.
 
-## Authors
+### Paper
+- **"[Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/abs/2002.12135)", AAAI-20**
 
-* Ivan Baybuza 
-* Olga Shtepa
 
-## References
+### Getting Started
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+#### Prerequisites  
+
+- python 3.5+
+- python libraries
+  - tensorly
+  - scipy
+  - numpy
+  - pandas 
+
+#### Run
+
+```python
+python main.py
+```
