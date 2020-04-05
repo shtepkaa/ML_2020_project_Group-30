@@ -172,7 +172,10 @@ BHTARIMA_m4_weekly =
  'ave_time': 2.0720286071300507,
  'nrmse': 0.2930743356314185}
  
-ARIMA_m4_weekly = |||
+ARIMA_m4_weekly = 
+{'acc': 0.9473852793920408,
+ 'ave_time': 891.1076479554176,
+ 'nrmse': 0.17172927236990754}
 
 Prophet_m4_weekly = 
 {'acc': 0.9335055031007331,
