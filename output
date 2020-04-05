@@ -168,10 +168,16 @@ VAR_m4_quaterly =
 **m4_weekly**:
 
 BHTARIMA_m4_weekly =
-
-ARIMA_m4_weekly = 
+{'acc': 0.9222258933653946,
+ 'ave_time': 2.0720286071300507,
+ 'nrmse': 0.2930743356314185}
+ 
+ARIMA_m4_weekly = |||
 
 Prophet_m4_weekly = 
+{'acc': 0.9335055031007331,
+ 'ave_time': 874.361903578043,
+ 'nrmse': 0.17967142859544552}
 
 VAR_m4_weekly = 
 {'acc': 0.0, 'ave_time': 0.031283944845199585, 'nrmse': 3.0765268096731475}
@@ -179,10 +185,16 @@ VAR_m4_weekly =
 **m4_year**:
 
 BHTARIMA_m4_year =
+{'acc': 0.9165969350902037,
+ 'ave_time': 5028.664515256882,
+ 'nrmse': 0.2652042468552764}
 
-ARIMA_m4_year = 
+ARIMA_m4_year = |||
 
 Prophet_m4_year= 
+{'acc': 0.8942371910619266,
+ 'ave_time': 4076.272094488144,
+ 'nrmse': 0.22754282140075519}
 
 VAR_m4_year = 
 {'acc': 0.5148440574111461,
