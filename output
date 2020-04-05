@@ -89,6 +89,9 @@ VAR_ele_1096 =
 **m4_daily**:
 
 BHTARIMA_m4_daily=
+{'acc': 0.9851282520953,
+ 'ave_time': 511.27737217479284,
+ 'nrmse': 0.03601812157542783}
 
 ARIMA_m4_daily = 
 
@@ -99,8 +102,11 @@ VAR_m4_daily =
 ---
 **m4_hourly**:
 
-BHTARIMA_m4_hourly=
-
+BHTARIMA_m4_hourly =
+ {'acc': 0.8903651229808939,
+ 'ave_time': 26.76949838910784,
+ 'nrmse': 0.07804027664172102}
+ 
 ARIMA_m4_hourly = 
 
 Prophet_m4_hourly = 
