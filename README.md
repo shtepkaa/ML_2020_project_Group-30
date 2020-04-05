@@ -23,5 +23,13 @@ M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information 
 ## Report
 ## Presentation
 
+#### Prerequisites  
 
+- python 3.5+
+- python libraries
+  - tensorly
+  - scipy
+  - numpy
+  - pandas 
+  - pdarima
 
