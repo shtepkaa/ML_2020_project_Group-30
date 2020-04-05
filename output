@@ -5,7 +5,7 @@ BHTARIMA_traffic_80 =
  'ave_time': 1.3084405362606049,
  'nrmse': 0.0006278946331649612}
 
- ARIMA_traffic_80=
+ ARIMA_traffic_80 =
  {'acc': 0.9995147412734734,
  'ave_time': 58.06306818127632,
  'nrmse': 0.0006572179168209609}
@@ -15,7 +15,7 @@ Prophet_traffic_80 =
  'ave_time': 464.91976779699326,
  'nrmse': 0.004210179931307133}
 
-VAR_traffic_80= 
+VAR_traffic_80 = 
 {'acc': 0.6461479655700934,
  'ave_time': 0.021432697772979736,
  'nrmse': 0.8046483608359213}
@@ -36,7 +36,8 @@ ARIMA_traffic_40 =
  'nrmse': 0.0005234248826319254}
 
 
-Prophet_traffic_40 = {'acc': 0.9995799410691075,
+Prophet_traffic_40 = 
+{'acc': 0.9995799410691075,
  'ave_time': 489.1279833316803,
  'nrmse': 0.0010362552377974003}
 
@@ -46,7 +47,6 @@ VAR_traffic_40 = {'acc': 0.8698914125657661,
  'nrmse': 0.15546029359744867}
 
 ---
-
 
 **BHTARIMA-ARIMA-Prophet-VAR_ele_40:**
 
@@ -69,21 +69,87 @@ VAR_ele_40 = {'acc': 0.23510860078280418,
  'nrmse': 4.538512758242928}
 
 ---
+**BHTARIMA-ARIMA-Prophet-VAR_ele_1096:**
 
+BHTARIMA_ele_1096 =
+
+ARIMA_ele_1096 = 
 
  Prophet_ele_1096 =
  {'acc': 0.9617017917815542,
  'ave_time': 953.2415871143342,
  'nrmse': 0.10011510915795638}
 
+VAR_ele_1096 = 
 
 
 
 
 ---
+**m4_daily**:
 
+BHTARIMA_m4_daily=
+
+ARIMA_m4_daily = 
+
+Prophet_m4_daily = 
+
+VAR_m4_daily = 
+
+---
+**m4_hourly**:
+
+BHTARIMA_m4_hourly=
+
+ARIMA_m4_hourly = 
+
+Prophet_m4_hourly = 
+
+VAR_m4_hourly = 
+
+---
 **m4_monthly**:
+BHTARIMA_m4_monthly=
+
+ARIMA_m4_monthly = 
+
+Prophet_m4_monthly = 
+
+
  Prophet_m4_monthly =
  {'acc': 0.9127493734725255,
  'ave_time': 225.01534008979797,
  'nrmse': 0.3019734039926652}
+ 
+ VAR_m4_monthly = 
+---
+ **m4_quaterly**:
+
+BHTARIMA_m4_hourly=
+
+ARIMA_m4_hourly = 
+
+Prophet_m4_hourly = 
+
+VAR_m4_hourly = 
+---
+**m4_weekly**:
+
+BHTARIMA_m4_weekl=
+
+ARIMA_m4_weekly = 
+
+Prophet_m4_weekl = 
+
+VAR_m4_weekly = 
+---
+**m4_year**:
+
+BHTARIMA_m4_year =
+
+ARIMA_m4_year = 
+
+Prophet_m4_year= 
+
+VAR_m4_year = 
+---
