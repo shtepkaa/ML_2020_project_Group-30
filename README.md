@@ -23,7 +23,7 @@ M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information 
 ## Report
 ## Presentation
 
-#### Prerequisites  
+## Prerequisites  
 
 - python 3.5+
 - python libraries
