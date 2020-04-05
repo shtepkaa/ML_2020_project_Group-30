@@ -21,14 +21,3 @@ M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information 
 - **"[Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/abs/2002.12135)", AAAI-20**
 
 
-### Getting Started
-
-#### Prerequisites  
-
-- python 3.5+
-- python libraries
-  - tensorly
-  - scipy
-  - numpy
-  - pandas 
-  - pdarima
