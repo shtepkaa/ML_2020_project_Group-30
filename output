@@ -55,7 +55,8 @@ BHTARIMA_ele_40=
  'ave_time': 0.7893500328063965,
  'nrmse': 0.013826081456828869}
 
-ARIMA_ele_40 = {'acc': 0.9894222402557837,
+ARIMA_ele_40 = 
+{'acc': 0.9894222402557837,
  'ave_time': 420.2710814476013,
  'nrmse': 0.050989401529810255}
 
@@ -64,7 +65,8 @@ Prophet_ele_40 =
  'ave_time': 777.9979345798492,
  'nrmse': 0.03504265066536615}
 
-VAR_ele_40 = {'acc': 0.23510860078280418,
+VAR_ele_40 = 
+{'acc': 0.23510860078280418,
  'ave_time': 0.014081716537475586,
  'nrmse': 4.538512758242928}
 
@@ -76,7 +78,7 @@ BHTARIMA_ele_1096 =
  'ave_time': 25.28428298398989,
  'nrmse': 0.014214127811633337}
  
-ARIMA_ele_1096 = 
+ARIMA_ele_1096 = ||||
 
  Prophet_ele_1096 =
 {'acc': 0.9617017917815542,
@@ -124,6 +126,9 @@ Prophet_m4_hourly =
  'nrmse': 0.9673533184465672}
 
 VAR_m4_hourly = 
+{'acc': 0.09224899402852912,
+ 'ave_time': 0.4682016474860055,
+ 'nrmse': 5.756327869097076}
 
 ---
 **m4_monthly**:
@@ -132,14 +137,14 @@ BHTARIMA_m4_monthly=
 ARIMA_m4_monthly = |||
 
 Prophet_m4_monthly = 
-
-
- Prophet_m4_monthly =
- {'acc': 0.9127493734725255,
+{'acc': 0.9127493734725255,
  'ave_time': 225.01534008979797,
  'nrmse': 0.3019734039926652}
  
  VAR_m4_monthly = 
+ {'acc': 0.532324836254004,
+ 'ave_time': 0.8224074840545654,
+ 'nrmse': 0.7883794475263426}
 ---
  **m4_quaterly**:
 
@@ -166,9 +171,10 @@ BHTARIMA_m4_weekly =
 
 ARIMA_m4_weekly = 
 
-Prophet_m4_weekl = 
+Prophet_m4_weekly = 
 
 VAR_m4_weekly = 
+{'acc': 0.0, 'ave_time': 0.031283944845199585, 'nrmse': 3.0765268096731475}
 ---
 **m4_year**:
 
@@ -179,4 +185,7 @@ ARIMA_m4_year =
 Prophet_m4_year= 
 
 VAR_m4_year = 
+{'acc': 0.5148440574111461,
+ 'ave_time': 0.09069371223449707,
+ 'nrmse': 0.8306989710778927}
 ---
