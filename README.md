@@ -31,9 +31,4 @@ M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information 
   - scipy
   - numpy
   - pandas 
-
-#### Run
-
-```python
-python main.py
-```
+  - pdarima
