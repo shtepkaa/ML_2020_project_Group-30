@@ -133,6 +133,9 @@ VAR_m4_hourly =
 ---
 **m4_monthly**:
 BHTARIMA_m4_monthly=
+{'acc': 0.9089133748499796,
+ 'ave_time': 603.6338524222374,
+ 'nrmse': 0.35164512256818764}
 
 ARIMA_m4_monthly = |||
 
