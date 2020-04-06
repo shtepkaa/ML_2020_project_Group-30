@@ -15,6 +15,8 @@ In M4 (https://mofc.unic.ac.cy/the-dataset/) there are different TS datasets, su
 
 M5 (https://www.kaggle.com/c/m5-forecasting-accuracy/data) contains information about the dates on which the products are sold, the historical daily unit sales data per product and the store, information about the price of the products sold per store and date.
 
+ALL datasets you can find in input folder
+
 ## Paper
 - **"[Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/abs/2002.12135)", AAAI-20**
 
