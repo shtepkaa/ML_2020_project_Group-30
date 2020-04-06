@@ -9,8 +9,6 @@ Traffic data describes traffic on the Los Angeles County highway network. We use
 
 Electricity records 321 hourly electricity consumption by customers. We took every 24-time points to get a daily TS data set of 321 x 1096.
 
-Smoke Video records smoke from the chimney of the plant. We sample and resize the images to get a third-order TS data set of 36 x 64 x 100.
-
 And also we used two external datasets: 
 
 In M4 (https://github.com/Mcompetitions/M4-methods/tree/master/Dataset) there are different TS datasets, such as Micro, Industry, Finance, etc, for different frequencies, such as daily data, monthly data, quarterly data, etc.
