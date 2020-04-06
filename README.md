@@ -20,9 +20,6 @@ ALL datasets you can find in input folder
 ## Paper
 - **"[Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/abs/2002.12135)", AAAI-20**
 
-## Report
-[Block Hankel Tensor ARIMA for Multiple Short Time Series Forecasting](https://arxiv.org/abs/2002.12135)
-
 ## Prerequisites  
 
 - python 3.5+
